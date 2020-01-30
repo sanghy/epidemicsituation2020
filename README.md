@@ -4,6 +4,12 @@ Information for epidemic situation of coronavirus
 ##新型冠状病毒感染的肺炎疫情防治问答手册##
 https://promo.jiankx.com/topic/handbook
 
+##新型冠状病毒感染的肺炎防控知识手册（一）##
+https://mp.weixin.qq.com/s/sYQ1KNzH-PTWOMiDO7ozRw
+##新型冠状病毒感染的肺炎防控知识手册（二）##
+https://mp.weixin.qq.com/s/zro-IKUz_BJ1Hz8WwHyHaQ
+
+
 ##新型冠状病毒感染的肺炎疫情，感染者实时统计数据##
 https://news.qq.com/zt2020/page/feiyan.htm
 
@@ -12,7 +18,8 @@ https://iflow.uc.cn/webview/article/newspecial.html?uc_biz_str=S%3Acustom%7CC%3A
 
 ##实时疫情数据、疾病知识、谣言、防护类微信公众号##
 1. 丁香医生
-2. 华中科技大学同济医院（免费发热咨询），扫码添加。
+2. 华中科技大学同济医院（免费发热咨询）
+3.
 
 
 
