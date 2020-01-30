@@ -6,3 +6,16 @@ https://promo.jiankx.com/topic/handbook
 
 ##新型冠状病毒感染的肺炎疫情，感染者实时统计数据##
 https://news.qq.com/zt2020/page/feiyan.htm
+
+##UC热点实时统计数据##
+https://iflow.uc.cn/webview/article/newspecial.html?uc_biz_str=S%3Acustom%7CC%3Aiflow_ncmt&aid=3804775841868884355&cid=100&uc_param_str=lodndseiwifrvesvntgi&sm_article_id=3804775841868884355&uc_h5_page_name=iflowspecial&feiyan=1&feiyan_jump=-3&zzd_from=uc-iflow&dl_type=2&app=uc-iflow&recoid=4148081763294823539&activity=1&activity2=1&pagetype=share
+
+##实时疫情数据、疾病知识、谣言、防护类微信公众号##
+1. 丁香医生
+2. 华中科技大学同济医院（免费发热咨询），扫码添加。
+
+
+
+
+##确诊病例轨迹查询，火车车次/车厢，飞机班次，公交，地铁，出租车，其他公共场所等##
+https://h5.peopleapp.com/txcx/index.html?from=timeline
