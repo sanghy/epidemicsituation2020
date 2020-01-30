@@ -19,7 +19,9 @@ https://iflow.uc.cn/webview/article/newspecial.html?uc_biz_str=S%3Acustom%7CC%3A
 ##实时疫情数据、疾病知识、谣言、防护类微信公众号##
 1. 丁香医生
 2. 华中科技大学同济医院（免费发热咨询）
-3.
+
+##网络义诊平台信息汇总##   
+https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/
 
 
 
