@@ -13,6 +13,9 @@ https://mp.weixin.qq.com/s/zro-IKUz_BJ1Hz8WwHyHaQ
 ##新型冠状病毒感染的肺炎疫情，感染者实时统计数据##  
 https://news.qq.com/zt2020/page/feiyan.htm
 
+##百度，疫情实时大数据报告##含有热门问答部分、热门搜索内容##  
+https://voice.baidu.com/act/newpneumonia/newpneumonia
+
 ##UC热点实时统计数据##  
 https://iflow.uc.cn/webview/article/newspecial.html?uc_biz_str=S%3Acustom%7CC%3Aiflow_ncmt&aid=3804775841868884355&cid=100&uc_param_str=lodndseiwifrvesvntgi&sm_article_id=3804775841868884355&uc_h5_page_name=iflowspecial&feiyan=1&feiyan_jump=-3&zzd_from=uc-iflow&dl_type=2&app=uc-iflow&recoid=4148081763294823539&activity=1&activity2=1&pagetype=share
 
