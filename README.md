@@ -26,7 +26,8 @@ https://iflow.uc.cn/webview/article/newspecial.html?uc_biz_str=S%3Acustom%7CC%3A
 ##网络义诊平台信息汇总##   
 https://shimo.im/sheets/JgXjYCJJTRQxJ3GP/MODOC/
 
-
+##疫情期间远程办公、会议、视频软件##多数是厂家向社会免费提供##  
+https://mp.weixin.qq.com/s/0eHS5WGUo-8q4nHJZppRFg
 
 
 ##确诊病例轨迹查询，火车车次/车厢，飞机班次，公交，地铁，出租车，其他公共场所等##  
