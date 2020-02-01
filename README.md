@@ -1,8 +1,8 @@
 # epidemicsituation2020  
 Information for epidemic situation of coronavirus
-
-##新型冠状病毒感染的肺炎疫情防治问答手册##  
-https://promo.jiankx.com/topic/handbook
+#新型冠状病毒感染的防治知识#  
+>>##新型冠状病毒感染的肺炎疫情防治问答手册##  
+>>https://promo.jiankx.com/topic/handbook
 
 ##新型冠状病毒感染的肺炎防控知识手册（一）##  
 https://mp.weixin.qq.com/s/sYQ1KNzH-PTWOMiDO7ozRw  
@@ -45,3 +45,10 @@ https://mp.weixin.qq.com/s/vVao01Zz6foW7YNiTgrgOA
 
 ##隔离在家时可以玩的小游戏##  
 https://mp.weixin.qq.com/s/fdOVZ1qZW7oAAjeVvxhcPw
+
+##宅家可以与孩子一起看的电影：足不出户，换个方式带孩子看世界##   
+https://mp.weixin.qq.com/s/JrUcGe7OidnVjCGZ_1E23g
+
+##此刻正好读书：中信出版4000+全球好书免费畅读畅听##   
+https://mp.weixin.qq.com/s/o-fCMO2aobupOTxbLkJyZQ
+
