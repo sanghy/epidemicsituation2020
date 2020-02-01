@@ -9,6 +9,11 @@ https://mp.weixin.qq.com/s/sYQ1KNzH-PTWOMiDO7ozRw
 ##新型冠状病毒感染的肺炎防控知识手册（二）##  
 https://mp.weixin.qq.com/s/zro-IKUz_BJ1Hz8WwHyHaQ
 
+##老年人疫情防控要作为当前工作重点##  
+https://article.xuexi.cn/articles/index.html?art_id=4182934292144560804&t=1580202250744&study_style_id=feeds_default&showmenu=false&pid=&ptype=-1&source=share&share_to=wx_single
+
+##疫情当前如何保护孩子##  
+https://www.takefoto.cn/viewnews-2031133.html
 
 ##新型冠状病毒感染的肺炎疫情，感染者实时统计数据##  
 https://news.qq.com/zt2020/page/feiyan.htm
@@ -32,3 +37,11 @@ https://mp.weixin.qq.com/s/0eHS5WGUo-8q4nHJZppRFg
 
 ##确诊病例轨迹查询，火车车次/车厢，飞机班次，公交，地铁，出租车，其他公共场所等##  
 https://h5.peopleapp.com/txcx/index.html?from=timeline
+
+
+##疫情期间的线上文娱##
+##足不出户在家看遍全国100个博物馆##   
+https://mp.weixin.qq.com/s/vVao01Zz6foW7YNiTgrgOA
+
+##隔离在家时可以玩的小游戏##  
+https://mp.weixin.qq.com/s/fdOVZ1qZW7oAAjeVvxhcPw
