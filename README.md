@@ -46,6 +46,8 @@ Information for epidemic situation of coronavirus
 >>##疫情期间远程办公、会议、视频软件##多数是厂家向社会免费提供##  
 >>https://mp.weixin.qq.com/s/0eHS5WGUo-8q4nHJZppRFg
 
+>>##金山协作文档##   
+>>https://mp.weixin.qq.com/s/b1Gtoa4ULSdqqWph861zrQ
 
 #疫情期间的线上文娱#
 >>##足不出户在家看遍全国100个博物馆##   
@@ -62,5 +64,4 @@ Information for epidemic situation of coronavirus
 
 >>##50部经典话剧欣赏##  
 >>https://mp.weixin.qq.com/s/hnrFOK-uZmA5yVBtMTKh0A
-
 
