@@ -5,6 +5,10 @@ Information for epidemic situation of coronavirus
 >>##确诊病例轨迹查询，火车车次/车厢，飞机班次，公交，地铁，出租车，其他公共场所等##  
 >>https://h5.peopleapp.com/txcx/index.html?from=timeline
 
+>>##疫情救治定点医院查询##  
+>>https://news.qq.com/zt2020/page/feiyan.htm#prevent
+
+
 #新型冠状病毒感染的防治知识#  
 >>##1.新型冠状病毒感染的肺炎疫情防治问答手册##  
 >>https://promo.jiankx.com/topic/handbook
